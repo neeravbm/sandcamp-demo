@@ -38,7 +38,7 @@ class NumTest extends PHPUnit_Framework_TestCase {
    */
   public function testNegative() {
     $numClass = new Num(-1.2);
-    $this->assertEquals($numClass->getNextInteger(), -1);
+    $this->assertEquals($numClass->getNextInteger(), -2);
   }
 
 }
