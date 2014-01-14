@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43a0f931-ae93-4ccb-b7fc-d0c61af66aa6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" afterPath="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/features/task1.feature" afterPath="$PROJECT_DIR$/tests/features/task1.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sandcamp-demo.iws" />
@@ -41,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumTest.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NumTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="55" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.67391306" vertical-offset="258" max-vertical-offset="810">
+            <state line="30" column="33" selection-start="722" selection-end="722" vertical-scroll-proportion="-7.111111" vertical-offset="258" max-vertical-offset="810">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task1.feature" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="task1.feature" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+            <state line="14" column="26" selection-start="580" selection-end="580" vertical-scroll-proportion="0.43523315" vertical-offset="0" max-vertical-offset="579">
               <folding />
             </state>
           </provider>
@@ -101,9 +101,9 @@
       <list>
         <option value="$PROJECT_DIR$/sites/all/modules/custom/demo/Num.php" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module" />
-        <option value="$PROJECT_DIR$/tests/features/task1.feature" />
         <option value="$PROJECT_DIR$/tests/features/task2.feature" />
         <option value="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" />
+        <option value="$PROJECT_DIR$/tests/features/task1.feature" />
       </list>
     </option>
   </component>
@@ -179,7 +179,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,63 +193,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandcamp-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandcamp-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandcamp-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandcamp-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="custom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="features" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,7 +297,11 @@
       <created>1389665177460</created>
       <updated>1389665177460</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Making PHPUnit Fail.">
+      <created>1389666216304</created>
+      <updated>1389666216304</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -393,7 +345,8 @@
     <MESSAGE value="Adding demo module." />
     <MESSAGE value="Making PHPUnit fail." />
     <MESSAGE value="Making PHPUnit pass." />
-    <option name="LAST_COMMIT_MESSAGE" value="Making PHPUnit pass." />
+    <MESSAGE value="Making PHPUnit Fail." />
+    <option name="LAST_COMMIT_MESSAGE" value="Making PHPUnit Fail." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,13 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
@@ -558,7 +504,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="55" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.67391306" vertical-offset="258" max-vertical-offset="810">
+        <state line="30" column="33" selection-start="722" selection-end="722" vertical-scroll-proportion="-7.111111" vertical-offset="258" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="580" selection-end="580" vertical-scroll-proportion="0.43523315" vertical-offset="0" max-vertical-offset="579">
           <folding />
         </state>
       </provider>
