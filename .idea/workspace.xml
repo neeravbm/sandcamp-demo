@@ -4,7 +4,10 @@
     <option name="SCOPE_TYPE" value="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a0f931-ae93-4ccb-b7fc-d0c61af66aa6" name="Default" comment="" />
+    <list default="true" id="43a0f931-ae93-4ccb-b7fc-d0c61af66aa6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" afterPath="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="sandcamp-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +35,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="324">
+            <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="486">
               <folding />
             </state>
           </provider>
@@ -41,7 +44,7 @@
       <file leaf-file-name="NumTest.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="44" selection-start="163" selection-end="163" vertical-scroll-proportion="0.13043478" vertical-offset="0" max-vertical-offset="792">
+            <state line="40" column="55" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.67391306" vertical-offset="258" max-vertical-offset="810">
               <folding />
             </state>
           </provider>
@@ -50,7 +53,7 @@
       <file leaf-file-name="task1.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="14" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
@@ -59,7 +62,7 @@
       <file leaf-file-name="task2.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
@@ -68,7 +71,7 @@
       <file leaf-file-name="demo.module" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="40" selection-start="987" selection-end="1015" vertical-scroll-proportion="-15.777778" vertical-offset="294" max-vertical-offset="846">
+            <state line="44" column="40" selection-start="987" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -77,7 +80,7 @@
       <file leaf-file-name="Num.class.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="35" selection-start="254" selection-end="254" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="378">
+            <state line="17" column="35" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="468">
               <folding />
             </state>
           </provider>
@@ -148,7 +151,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,6 +309,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,7 +395,11 @@
       <created>1389625806159</created>
       <updated>1389625806159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Making PHPUnit fail.">
+      <created>1389654152770</created>
+      <updated>1389654152770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -401,23 +408,23 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24561404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
@@ -434,7 +441,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Adding demo module." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding demo module." />
+    <MESSAGE value="Making PHPUnit fail." />
+    <option name="LAST_COMMIT_MESSAGE" value="Making PHPUnit fail." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,6 +453,90 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="55" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="40" selection-start="987" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="35" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="44" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="40" selection-start="987" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="35" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="324">
@@ -475,28 +567,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="579">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="579" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="324">
+        <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="486">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="35" selection-start="254" selection-end="254" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="378">
+        <state line="17" column="35" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="468">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="40" selection-start="987" selection-end="1015" vertical-scroll-proportion="-15.777778" vertical-offset="294" max-vertical-offset="846">
+        <state line="44" column="40" selection-start="987" selection-end="1015" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
@@ -517,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="44" selection-start="163" selection-end="163" vertical-scroll-proportion="0.13043478" vertical-offset="0" max-vertical-offset="792">
+        <state line="40" column="55" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.67391306" vertical-offset="258" max-vertical-offset="810">
           <folding />
         </state>
       </provider>
