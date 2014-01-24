@@ -475,12 +475,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Behat/SahiClient.git",
-                "reference": "269beb39969d8550543f1d1a0320bbf9301ab10d"
+                "reference": "ff82c357b5bb70602d3ba1a7210ba0b4a08c2178"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Behat/SahiClient/zipball/269beb39969d8550543f1d1a0320bbf9301ab10d",
-                "reference": "269beb39969d8550543f1d1a0320bbf9301ab10d",
+                "url": "https://api.github.com/repos/Behat/SahiClient/zipball/ff82c357b5bb70602d3ba1a7210ba0b4a08c2178",
+                "reference": "ff82c357b5bb70602d3ba1a7210ba0b4a08c2178",
                 "shasum": ""
             },
             "require": {
@@ -516,7 +516,7 @@
                 "browser",
                 "testing"
             ],
-            "time": "2013-12-27 10:09:35"
+            "time": "2014-01-20 00:36:58"
         },
         {
             "name": "fabpot/goutte",
@@ -524,12 +524,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabpot/Goutte.git",
-                "reference": "91653aacc36f47e8d3a07c8607e885af5ec1d43a"
+                "reference": "e83f8f9d133dbf9b0254c2874f9c5c6287a3a8e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabpot/Goutte/zipball/91653aacc36f47e8d3a07c8607e885af5ec1d43a",
-                "reference": "91653aacc36f47e8d3a07c8607e885af5ec1d43a",
+                "url": "https://api.github.com/repos/fabpot/Goutte/zipball/e83f8f9d133dbf9b0254c2874f9c5c6287a3a8e0",
+                "reference": "e83f8f9d133dbf9b0254c2874f9c5c6287a3a8e0",
                 "shasum": ""
             },
             "require": {
@@ -572,7 +572,7 @@
             "keywords": [
                 "scraper"
             ],
-            "time": "2014-01-12 19:53:04"
+            "time": "2014-01-18 19:09:49"
         },
         {
             "name": "guzzle/common",
@@ -778,12 +778,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/instaclick/php-webdriver.git",
-                "reference": "891369d6dd38df1c803a0fc6d98530b74bb1afcf"
+                "reference": "b6679c572ad1aa9c3c03a240c825323b82889acd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/instaclick/php-webdriver/zipball/891369d6dd38df1c803a0fc6d98530b74bb1afcf",
-                "reference": "891369d6dd38df1c803a0fc6d98530b74bb1afcf",
+                "url": "https://api.github.com/repos/instaclick/php-webdriver/zipball/b6679c572ad1aa9c3c03a240c825323b82889acd",
+                "reference": "b6679c572ad1aa9c3c03a240c825323b82889acd",
                 "shasum": ""
             },
             "require": {
@@ -831,7 +831,7 @@
                 "webdriver",
                 "webtest"
             ],
-            "time": "2014-01-03 18:01:55"
+            "time": "2014-01-20 05:17:51"
         },
         {
             "name": "kriswallsmith/buzz",
@@ -888,12 +888,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/BrowserKit.git",
-                "reference": "25576ff5ff950ade6b6b69ae9d9354729b7ad51c"
+                "reference": "2d47a8726436fb013ae40722a7177cc5fa76db99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/BrowserKit/zipball/25576ff5ff950ade6b6b69ae9d9354729b7ad51c",
-                "reference": "25576ff5ff950ade6b6b69ae9d9354729b7ad51c",
+                "url": "https://api.github.com/repos/symfony/BrowserKit/zipball/2d47a8726436fb013ae40722a7177cc5fa76db99",
+                "reference": "2d47a8726436fb013ae40722a7177cc5fa76db99",
                 "shasum": ""
             },
             "require": {
@@ -934,7 +934,7 @@
             ],
             "description": "Symfony BrowserKit Component",
             "homepage": "http://symfony.com",
-            "time": "2014-01-07 13:19:25"
+            "time": "2014-01-24 06:18:16"
         },
         {
             "name": "symfony/config",
@@ -991,12 +991,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "62a18a52e66662bc4bf1edf0b9916b97caad3418"
+                "reference": "47e82eadf64a81e0a778c7249c7292987f1bfcff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/62a18a52e66662bc4bf1edf0b9916b97caad3418",
-                "reference": "62a18a52e66662bc4bf1edf0b9916b97caad3418",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/47e82eadf64a81e0a778c7249c7292987f1bfcff",
+                "reference": "47e82eadf64a81e0a778c7249c7292987f1bfcff",
                 "shasum": ""
             },
             "require": {
@@ -1035,7 +1035,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2014-01-07 15:22:10"
+            "time": "2014-01-24 14:36:35"
         },
         {
             "name": "symfony/css-selector",
@@ -1393,12 +1393,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Translation.git",
-                "reference": "4c0b284dce13c0bf60afc42f1c255cc91f87c82c"
+                "reference": "9c10bbce6bcd255661decff7ac61a03834b8f78d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Translation/zipball/4c0b284dce13c0bf60afc42f1c255cc91f87c82c",
-                "reference": "4c0b284dce13c0bf60afc42f1c255cc91f87c82c",
+                "url": "https://api.github.com/repos/symfony/Translation/zipball/9c10bbce6bcd255661decff7ac61a03834b8f78d",
+                "reference": "9c10bbce6bcd255661decff7ac61a03834b8f78d",
                 "shasum": ""
             },
             "require": {
@@ -1439,7 +1439,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "http://symfony.com",
-            "time": "2014-01-07 13:29:57"
+            "time": "2014-01-24 14:36:35"
         },
         {
             "name": "symfony/yaml",
@@ -1740,12 +1740,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "5b150a8229d645aeea49546284bf74cc561a1182"
+                "reference": "30a3ed4fa78149b2b191aaca72b5012270ee4ce3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/5b150a8229d645aeea49546284bf74cc561a1182",
-                "reference": "5b150a8229d645aeea49546284bf74cc561a1182",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/30a3ed4fa78149b2b191aaca72b5012270ee4ce3",
+                "reference": "30a3ed4fa78149b2b191aaca72b5012270ee4ce3",
                 "shasum": ""
             },
             "require": {
@@ -1806,7 +1806,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-01-11 08:28:18"
+            "time": "2014-01-23 22:13:15"
         },
         {
             "name": "phpunit/phpunit-mock-objects",

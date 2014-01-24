@@ -4,7 +4,20 @@
     <option name="SCOPE_TYPE" value="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a0f931-ae93-4ccb-b7fc-d0c61af66aa6" name="Default" comment="">
+    <list default="true" id="43a0f931-ae93-4ccb-b7fc-d0c61af66aa6" name="Default" comment="Modifying tests. New PHP libraries.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/symfony/browser-kit/Symfony/Component/BrowserKit" afterPath="$PROJECT_DIR$/tests/vendor/symfony/browser-kit/Symfony/Component/BrowserKit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/symfony/console/Symfony/Component/Console" afterPath="$PROJECT_DIR$/tests/vendor/symfony/console/Symfony/Component/Console" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/symfony/translation/Symfony/Component/Translation" afterPath="$PROJECT_DIR$/tests/vendor/symfony/translation/Symfony/Component/Translation" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/fabpot/goutte" afterPath="$PROJECT_DIR$/tests/vendor/fabpot/goutte" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/instaclick/php-webdriver" afterPath="$PROJECT_DIR$/tests/vendor/instaclick/php-webdriver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/phpunit/phpunit" afterPath="$PROJECT_DIR$/tests/vendor/phpunit/phpunit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/behat/sahi-client" afterPath="$PROJECT_DIR$/tests/vendor/behat/sahi-client" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" afterPath="$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/autoload.php" afterPath="$PROJECT_DIR$/tests/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/tests/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/composer.lock" afterPath="$PROJECT_DIR$/tests/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/tests/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sandcamp-demo.iml" afterPath="$PROJECT_DIR$/.idea/sandcamp-demo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/features/task1.feature" afterPath="$PROJECT_DIR$/tests/features/task1.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -35,7 +48,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="486">
+            <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -44,7 +57,7 @@
       <file leaf-file-name="NumTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="33" selection-start="722" selection-end="722" vertical-scroll-proportion="-7.111111" vertical-offset="258" max-vertical-offset="810">
+            <state line="44" column="0" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-15.541667" vertical-offset="212" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
@@ -53,7 +66,7 @@
       <file leaf-file-name="task1.feature" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="26" selection-start="580" selection-end="580" vertical-scroll-proportion="0.43523315" vertical-offset="0" max-vertical-offset="579">
+            <state line="14" column="26" selection-start="572" selection-end="572" vertical-scroll-proportion="0.4595186" vertical-offset="0" max-vertical-offset="457">
               <folding />
             </state>
           </provider>
@@ -62,7 +75,7 @@
       <file leaf-file-name="task2.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+            <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -71,7 +84,7 @@
       <file leaf-file-name="demo.module" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="39" selection-start="847" selection-end="847" vertical-scroll-proportion="-13.111111" vertical-offset="294" max-vertical-offset="846">
+            <state line="40" column="39" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -80,7 +93,7 @@
       <file leaf-file-name="Num.class.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="2" selection-start="262" selection-end="262" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="378">
+            <state line="20" column="2" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -107,13 +120,12 @@
       </list>
     </option>
   </component>
-  <component name="PhpDebugGeneral" xdebug_debug_port="9111" />
   <component name="PhpServers">
     <option name="servers">
-      <server deployment_server="9d6d46a0-b127-4f6f-9db3-7ba478c1ec9e" host="localhost" name="localhost" validation_dir="$PROJECT_DIR$" />
+      <server deployment_server="7928e5c2-8e1d-4437-a1cb-c29aea723ea5" host="localhost" name="localhost" validation_dir="$PROJECT_DIR$" />
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.3">
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Brew PHP">
     <include_path>
       <path value="$PROJECT_DIR$/includes" />
       <path value="$PROJECT_DIR$/modules" />
@@ -121,9 +133,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="31" />
-    <option name="width" value="1368" />
-    <option name="height" value="696" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -201,6 +213,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandcamp-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -208,7 +304,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="Configurable.PHP.MessDetector" />
+    <property name="options.lastSelected" value="Configurable.PHP.PHPUnit" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -222,7 +318,7 @@
       <recent name="$PROJECT_DIR$/sites/all/modules/custom/demo" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.localtest">
+  <component name="RunManager" selected="PHPUnit.PHPUnit">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <CommandLine workingDirectory="$PROJECT_DIR$" />
       <TestRunner directory="$PROJECT_DIR$/sites/all/modules/custom" />
@@ -237,17 +333,17 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="7928e5c2-8e1d-4437-a1cb-c29aea723ea5" server_name="localhost">
       <method />
     </configuration>
-    <configuration default="false" name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="FIREFOX" server_name="localhost" start_url="/sandcamp-demo">
+    <configuration default="false" name="Debug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="FIREFOX" server_name="localhost" start_url="/sandcamp-demo">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="localtest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <configuration default="false" name="PHPUnit" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <CommandLine workingDirectory="$PROJECT_DIR$" />
       <TestRunner directory="$PROJECT_DIR$/sites/all/modules/custom" />
       <RunnerSettings RunnerId="PhpRunner" />
@@ -257,8 +353,8 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.localhost" />
-      <item index="1" class="java.lang.String" itemvalue="PHPUnit.localtest" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.Debug" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.PHPUnit" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -305,20 +401,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="31" width="1368" height="696" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="790" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32732317" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24561404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17430556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39805827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32732317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -331,7 +427,7 @@
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -346,7 +442,8 @@
     <MESSAGE value="Making PHPUnit fail." />
     <MESSAGE value="Making PHPUnit pass." />
     <MESSAGE value="Making PHPUnit Fail." />
-    <option name="LAST_COMMIT_MESSAGE" value="Making PHPUnit Fail." />
+    <MESSAGE value="Modifying tests. New PHP libraries." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifying tests. New PHP libraries." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -357,6 +454,90 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="39" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/task2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="39" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
@@ -450,9 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/bootstrap.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="62874">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="62874" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -464,9 +643,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/bootstrap.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="62874">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="62874" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.info">
@@ -490,28 +667,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/Num.class.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="2" selection-start="262" selection-end="262" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="378">
+        <state line="20" column="2" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/demo.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="39" selection-start="847" selection-end="847" vertical-scroll-proportion="-13.111111" vertical-offset="294" max-vertical-offset="846">
+        <state line="40" column="39" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/demo/NumTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="33" selection-start="722" selection-end="722" vertical-scroll-proportion="-7.111111" vertical-offset="258" max-vertical-offset="810">
+        <state line="44" column="0" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-15.541667" vertical-offset="212" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/features/task1.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="580" selection-end="580" vertical-scroll-proportion="0.43523315" vertical-offset="0" max-vertical-offset="579">
+        <state line="14" column="26" selection-start="572" selection-end="572" vertical-scroll-proportion="0.4595186" vertical-offset="0" max-vertical-offset="457">
           <folding />
         </state>
       </provider>
