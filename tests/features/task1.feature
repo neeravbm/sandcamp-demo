@@ -9,7 +9,6 @@ I should be able to view the page and the next integer
     When I fill in "Username" with "admin"
     When I fill in "Password" with "1234"
     When I press button "Log in"
-    Then I should be redirected to "/users/admin"
     Given I am on "/show-next-integer/3.4"
     Then I should see "The next integer is 4."
-    Then I click "Log Out"
+    Then I click "Log out"
