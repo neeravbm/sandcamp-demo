@@ -4,7 +4,6 @@
  * Inserts a tracking image.
  */
 function email_analytics_insert_tracking_image($hash, &$body) {
-	global $base_url;
 	$query = array(
 		'email_analytics_hash' => $hash,
 	//	'action' => 'open',

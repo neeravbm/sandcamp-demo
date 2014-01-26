@@ -127,7 +127,8 @@ function email_analytics_view() {
     $results[] = $record;
   }
 
-  $output = drupal_render(drupal_get_form('email_analytics_main_report_filter_form', $results));
+  $email_analytics_main_report_filter_form = drupal_get_form('email_analytics_main_report_filter_form', $results);
+  $output = drupal_render($email_analytics_main_report_filter_form);
   $output .= theme('email_analytics_main_report', array('result' => $results, 'header' => $header));
 
   $pager = array('#theme' => 'pager');
